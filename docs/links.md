@@ -14,3 +14,7 @@ sidebar_position: 3
 - [Season Alt Page](https://www.firstlegoleague.org/season#mmbi)
 - [Robot Rules](https://firstinspiresst01.blob.core.windows.net/first-forward/fll-challenge/fll-challenge-participation-rules.pdf) (PDF)
 - [Thinkscape Forums](https://forums.mythinkscape.com/portal/)
+
+## Build Instructions
+
+- [Prime Lessons Robot Designs](https://primelessons.org/en/RobotDesigns.html)
