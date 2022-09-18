@@ -1,0 +1,75 @@
+{
+  "terms": [
+    {
+      "desc": "If a part has an X shaped cross bar to it, it's an <i>axle</i>. Axles and pins are the most common technic parts and can be found as features on many other pieces. An 'axle' is just an axle, a part that combines features would be named 'something and axle', e.g. the common blue connectors are 'axle and pin connectors'.",
+      "label": "Axles",
+      "img": "axles.png"
+    },
+    {
+      "desc": "A piece that connects two technic pieces is a <i>pin</i>. Pins can be 'frictionless' or have 'friction ridges' and can also be combined with other parts like axles.",
+      "label": "Pins",
+      "img": "pins.png"
+    },
+    {
+      "desc": "The standard technic piece is called a liftarm, or arm for short. Arms that aren't straight are described by their shape, e.g. L-shape arm, Bent arm, double-bent arm.",
+      "label": "Arms (Liftarms)",
+      "img": "arms.png"
+    },
+    {
+      "desc": "These small pieces are 'bushings', pieces that are used for their friction to keep other pieces in place.",
+      "label": "Bushing (Bush)",
+      "img": "bushing.png"
+    },
+    {
+      "desc": "These pieces are similar to bushings but they are used to space out parts frictionlessly.",
+      "label": "Spacers",
+      "img": "spacers.png"
+    },
+    {
+      "desc": "Connectors connect pins together and can act as larger spacers.",
+      "label": "Connectors",
+      "img": "connectors-spacers.png"
+    },
+    {
+      "desc": "Almost anything with teeth is a gear. Gears are usually referred to by the number of teeth and their thickness.",
+      "label": "Gears",
+      "img": "gears.png"
+    },
+
+    {
+      "desc": "These parts are commonly called <i>biscuits</i> and are great at securing multiple sections of a project together.",
+      "label": "Pin Connector Block (a.k.a. The Biscuit)",
+      "img": "biscuits.png"
+    },
+    {
+      "desc": "These parts have three features, they connect two axles together, have a spot for a pin, and are often angled.",
+      "label": "Axle & Pin connector",
+      "img": "connectors.png"
+    },
+    {
+      "desc": "These square/rectangular liftarms are referred to as 'frames'.",
+      "label": "Frames",
+      "img": "frames.png"
+    },
+    {
+      "desc": "These pieces link together liftarms across gaps or to account for moving parts.",
+      "label": "Links",
+      "img": "links.png"
+    },
+    {
+      "desc": "These pieces connect pins and axles perpendicularly (at right angles). Describe them by their size (2L, 3L) and where their pin hole is (e.g. 3L perpendicular connector with center pin hole).",
+      "label": "Perpendicular Connectors",
+      "img": "perpendicular-connectors.png"
+    },
+    {
+      "desc": "These perpendicular connectors are described by the number of pins, their length, and any other features, e.g. double, triple, double 4L, double split.",
+      "label": "(More) Perpendicular Connectors",
+      "img": "perp-connector-multi.png"
+    },
+    {
+      "desc": "Plates are used as large, clean-looking frames. They do not have many attachment points and are mostly decorative.",
+      "label": "Plates",
+      "img": "plates.png"
+    }
+  ]
+}

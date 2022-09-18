@@ -1,0 +1,27 @@
+---
+sidebar_position: 3
+---
+
+import axles from "./img/glossary/axles.png";
+import definitions from "./definitions.json";
+const rows = definitions.terms.map(({ label, img, desc }) => (
+  <tr>
+    <td style={{ width: "40%" }}>
+      <img src={require(`./img/glossary/${img}`).default} />
+    </td>
+    <td>
+      <h4>{label}</h4>
+    </td>
+    <td>
+      <p dangerouslySetInnerHTML={{ __html: desc }}></p>
+    </td>
+  </tr>
+));
+
+# Technic Glossary
+
+To build Lego robots on a team you must first learn how to communicate.
+
+<table>{rows}</table>
+
+Hey
