@@ -7,34 +7,19 @@ const FeatureList = [
     title: "Tutorials",
     img: require("@site/static/img/lego-graduate.png").default,
     url: "/docs/category/tutorials",
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    description: <>The best tutorials we've found to program Lego robots.</>,
   },
   {
     title: "Technic Tips",
     img: require("@site/static/img/tip-right-angle-connection.png").default,
     url: "/docs/technic",
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    description: <>Tips and terms for building with Lego Technic pieces.</>,
   },
   {
     title: "Useful Links",
     img: require("@site/static/img/lego-book-resources.png").default,
     url: "/docs/links",
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    description: <>Useful links for FLL or Lego.</>,
   },
 ];
 
